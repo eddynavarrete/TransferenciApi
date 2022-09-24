@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TransferenciApi", "TransferenciApi.csproj", "{E5A1E9EB-E544-4C49-92A6-9A30A85C4F9D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestUnite", "..\TestUnite\TestUnite.csproj", "{8592D425-42ED-4DCF-9AC2-50F2DFCDB4BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E5A1E9EB-E544-4C49-92A6-9A30A85C4F9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5A1E9EB-E544-4C49-92A6-9A30A85C4F9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5A1E9EB-E544-4C49-92A6-9A30A85C4F9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5A1E9EB-E544-4C49-92A6-9A30A85C4F9D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8592D425-42ED-4DCF-9AC2-50F2DFCDB4BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8592D425-42ED-4DCF-9AC2-50F2DFCDB4BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8592D425-42ED-4DCF-9AC2-50F2DFCDB4BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8592D425-42ED-4DCF-9AC2-50F2DFCDB4BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AF194067-C807-4925-A205-6DBB7F05267E}
+	EndGlobalSection
+EndGlobal
